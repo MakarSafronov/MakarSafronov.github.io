@@ -1,1 +1,0 @@
-# MakarSafronov.github.io
