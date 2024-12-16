@@ -1,7 +1,7 @@
 * {
     --big-font: clamp(0rem, 7vw, 10rem);
-    --regular-font: clamp(0rem, 3vw, 10rem);
-    --small-font: clamp(0rem,1.5vw,10rem);
+    --regular-font: clamp(0rem, 3vw,2rem);
+    --small-font: clamp(0rem,1.5vw,3rem);
 }
 
 main{
